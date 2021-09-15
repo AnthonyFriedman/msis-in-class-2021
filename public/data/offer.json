@@ -1,0 +1,21 @@
+{
+    "offers":[
+        {
+            "id": 1,
+            "name": "Mike Hock",
+            "salary": 69000,
+            "bonus": 69,
+            "company": "Yo Mama Consulting",
+            "offerDate": "2021-10-18"
+        },
+        {
+            "id": 2,
+            "name": "Lee Kiebum",
+            "salary": 690000,
+            "bonus": 6900,
+            "company": "My Mama Consulting",
+            "offerDate": "2021-10-18"
+        },
+        {}
+    ]
+}
